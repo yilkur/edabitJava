@@ -7,9 +7,5 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="HowEdabitWorks" />
-    <orderEntry type="module" module-name="PerfectSquarePatch" />
-    <orderEntry type="module" module-name="GetWordCount" />
-    <orderEntry type="module" module-name="HowMuchIsTrue" />
   </component>
 </module>
