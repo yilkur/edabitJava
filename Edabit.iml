@@ -13,5 +13,6 @@
     <orderEntry type="module" module-name="HowMuchIsTrue" />
     <orderEntry type="module" module-name="RockPaperScissors" />
     <orderEntry type="module" module-name="WarOfNumbers" />
+    <orderEntry type="module" module-name="VideoLengthInSeconds" />
   </component>
 </module>
