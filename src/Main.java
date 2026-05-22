@@ -1,5 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println(VideoLengthInSeconds.minutesToSeconds("12:33"));
+        System.out.println(IntegerDigits.count(43342));
     }
 }

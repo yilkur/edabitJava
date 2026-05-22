@@ -14,5 +14,6 @@
     <orderEntry type="module" module-name="RockPaperScissors" />
     <orderEntry type="module" module-name="WarOfNumbers" />
     <orderEntry type="module" module-name="VideoLengthInSeconds" />
+    <orderEntry type="module" module-name="IntegerDigitsCount" />
   </component>
 </module>
