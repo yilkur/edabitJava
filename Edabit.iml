@@ -16,5 +16,6 @@
     <orderEntry type="module" module-name="VideoLengthInSeconds" />
     <orderEntry type="module" module-name="IntegerDigitsCount" />
     <orderEntry type="module" module-name="YouFAILEDPASSEDtheExam" />
+    <orderEntry type="module" module-name="SevenBoom" />
   </component>
 </module>
