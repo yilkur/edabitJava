@@ -17,5 +17,6 @@
     <orderEntry type="module" module-name="IntegerDigitsCount" />
     <orderEntry type="module" module-name="YouFAILEDPASSEDtheExam" />
     <orderEntry type="module" module-name="SevenBoom" />
+    <orderEntry type="module" module-name="LargestGap" />
   </component>
 </module>
